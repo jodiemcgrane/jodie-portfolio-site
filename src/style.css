@@ -6,13 +6,13 @@
   --fs-700: 2rem;
 
   --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Arvo", serif;
+  --ff-heading: "Roboto", sans-serif;
 
   --fw-400: 400;
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: hsla(169, 70%, 95%, 1);
+  --clr-primary-200: #e9fbf8;
   --clr-primary-300: #7A9FF4;
   --clr-primary-400: #3269E7;
   --clr-primary-500: #124ED9;
@@ -258,7 +258,7 @@ section,
 }
 
 .featured-articles {
-  background-color: var(--clr-primary-200);
+  background-color: var(--clr-primary-300);
 }
 
 .articles__list {
