@@ -2,7 +2,7 @@
 title: College System
 author: Jodie McGrane
 date: 2021-04-15
-image: /assets/blog/courses-home.png
+image: /assets/blog/courses-home.PNG
 imageAlt: Courses Page
 description: A Vue.js application that allows a user to view and manipulate data about courses, lecturers and enrolments at a college.
 ---
