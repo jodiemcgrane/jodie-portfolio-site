@@ -13,9 +13,9 @@ Aswell as building a front-end application for the REST API, there was a focus o
 
 Many more UI design patterns were used such as breadcrumbs, search-boxes, pagination and more. In Vue these are all known as components which were created using Boostrap-Vue. It is a component library based entirely on the Bootstrap front-end CSS framework.
 
-GitHub repository link: <a href="https://github.com/jodiemcgrane/college-vue"></a>
+GitHub repository link: <a href="https://github.com/jodiemcgrane/college-vue">College System GitHub Repository</a>
 
-Once this project was completed it was successfully hosted, check it out: <a href="https://college-vue-jodie.web.app/"></a>
+Once this project was completed it was successfully hosted, check it out: <a href="https://college-vue-jodie.web.app/">Visit College System</a>
 
 To login to the college system the username is '<b>sam@bloggs.com</b>' and the password is '<b>secret</b>'. Don't tell anyone!
 
