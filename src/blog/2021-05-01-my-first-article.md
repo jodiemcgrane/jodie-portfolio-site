@@ -21,4 +21,10 @@ To login to the college system the username is '<b>sam@bloggs.com</b>' and the p
 
 <h2>College System Video Demonstration</h2>
 
+<video width="320" height="240" controls>
+  <source src="/assets/CollegeVueDemo.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 GitHub repository link: <a href="https://github.com/jodiemcgrane/college-vue">College System GitHub Repository</a>
