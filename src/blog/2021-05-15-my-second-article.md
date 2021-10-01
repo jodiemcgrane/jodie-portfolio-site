@@ -1,18 +1,20 @@
 ---
-title: Professional Practice Project
+title: SpareTime
 author: Jodie McGrane
-date: 2021-05-15
+date: 2021-05-11
 image: /assets/blog/article-2.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: SpareTime Home Page
+description: SpareTime is a calendar-based web application. It is used to manage your time by creating events and displaying them onto a calendar. The user can also create and manage a todo list for their events using SpareTime.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
+This project I worked on was from my Professional Practice module in 3rd year of college. The aim of the module was for us students to undertake a project that involves the design and implementation of a software application in a workplace environment. This project was carried out in groups of two, me and my project partner Caolán. As this project was managed using the Scrum methodology, therefore our project teams was assigned a project supervisor, fulfilling the role of scrum master and product owner and us two as the development team.
 
-Nec ultrices dui sapien eget mi proin sed libero enim. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Aliquam id diam maecenas ultricies mi. Faucibus in ornare quam viverra. Nisi est sit amet facilisis magna etiam tempor orci eu. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Cras pulvinar mattis nunc sed. Pharetra et ultrices neque ornare aenean euismod elementum. Urna duis convallis convallis tellus. Donec massa sapien faucibus et. Id faucibus nisl tincidunt eget nullam non. Quam pellentesque nec nam aliquam sem et tortor consequat.
+<h2>Phase 1</h2>
 
-Ac auctor augue mauris augue neque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Arcu ac tortor dignissim convallis aenean. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Porttitor eget dolor morbi non. Quis lectus nulla at volutpat diam ut venenatis tellus. Ultricies leo integer malesuada nunc vel risus. Facilisis sed odio morbi quis commodo odio aenean.
+The first phase of the project involved the team researching into applications target market such as creating personas, conducting interviews and questionnaires, creating empathy maps, developing scenarios for our personas, and then developing prototypes to solve the personas interaction in the scenario.
 
-Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Sit amet cursus sit amet dictum sit amet justo. Euismod lacinia at quis risus sed vulputate odio ut. Malesuada pellentesque elit eget gravida. Diam donec adipiscing tristique risus nec. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit. Porta nibh venenatis cras sed felis eget. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Orci phasellus egestas tellus rutrum. Ac felis donec et odio pellentesque diam volutpat commodo sed. Viverra nam libero justo laoreet sit amet cursus sit amet. Duis at consectetur lorem donec massa sapien faucibus. Et leo duis ut diam quam nulla porttitor massa. Eros donec ac odio tempor. Massa ultricies mi quis hendrerit. Semper quis lectus nulla at volutpat diam ut venenatis.
+This part of the project was also a continuous assessment for another module called Interaction Design. All research, prototypes and evaluations can be found in a Miro board I created where me and my project partner worked together developing our project.
 
-Urna condimentum mattis pellentesque id nibh tortor id aliquet. Mollis nunc sed id semper risus in. Morbi blandit cursus risus at ultrices mi. Lectus vestibulum mattis ullamcorper velit. Facilisis mauris sit amet massa vitae tortor. Ullamcorper sit amet risus nullam. Nunc sed blandit libero volutpat sed. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Convallis convallis tellus id interdum velit laoreet id. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Non nisi est sit amet facilisis magna etiam tempor. Nisl nunc mi ipsum faucibus vitae.
+<a href="https://miro.com/app/board/o9J_kkE2XC4=/?invite_link_id=424180921263" class="btn btn--primary">Miro Board</a>
+
+<h2>Phase 2</h2>
