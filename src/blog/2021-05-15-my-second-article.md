@@ -3,7 +3,7 @@ title: SpareTime
 author: Jodie McGrane
 date: 2021-05-11
 tags: ['post', 'featured']
-image: /assets/blog/article-2.jpg
+image: /assets/blog/sparetime-create-event.PNG
 imageAlt: SpareTime Home Page
 description: SpareTime is a calendar-based web application. It is used to manage your time by creating events and displaying them onto a calendar. The user can also create and manage a todo list for their events using SpareTime.
 ---
