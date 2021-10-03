@@ -4,11 +4,15 @@ author: Jodie McGrane
 date: 2021-05-11
 tags: ['post', 'featured']
 image: /assets/blog/sparetime-create-event.PNG
-imageAlt: SpareTime Home Page
+imageAlt: Creating an event
 description: SpareTime is a calendar-based web application. It is used to manage your time by creating events and displaying them onto a calendar. The user can also create and manage a todo list for their events using SpareTime.
 ---
 
-This project I worked on was from my Professional Practice module in 3rd year of college. The aim of the module was for us students to undertake a project that involves the design and implementation of a software application in a workplace environment. This project was carried out in groups of two, me and my project partner Caolán. As this project was managed using the Scrum methodology, therefore our project teams was assigned a project supervisor, fulfilling the role of scrum master and product owner and us two as the development team.
+This project I worked on was from my Professional Practice module in 3rd year of college. The aim of the module was for us students to undertake a project that involves the design and implementation of a software application in a workplace environment. This project was carried out in groups of two, me and my project partner Caolán. This project was managed using the Scrum methodology, therefore our project team was assigned a supervisor who fulfilled the role of scrum master and product owner during this project.
+
+<h2>What is SpareTime?</h2>
+
+
 
 <h2>Phase 1</h2>
 
@@ -36,7 +40,7 @@ The overall result of this project was that me and my project partner, Caolán w
 
 <h2>SpareTime Video Demonstration</h2>
 
-Finally, below is a demonstration video of our application 'SpareTime'.
+Finally, below is a demonstration video of our application 'SpareTime'. Myself and my project partner talk through the project in more detail!
 
 <video width="720" height="486" controls>
   <source src="/assets/SpareTimeScreencast.mp4" type="video/mp4">
