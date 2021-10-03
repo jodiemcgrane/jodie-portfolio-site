@@ -38,10 +38,10 @@ The overall result of this project was that me and my project partner, Caolán w
 
 Finally, below is a demonstration video of our application 'SpareTime'.
 
-<!-- <video width="720" height="486" controls>
+<video width="720" height="486" controls>
   <source src="/assets/SpareTimeScreencast.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
-</video> -->
+</video>
 
 
